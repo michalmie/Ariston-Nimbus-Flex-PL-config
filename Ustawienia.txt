@@ -1,213 +1,213 @@
 Ariston Nimbus Flex - Menu Serwisowe
 
 4 Parametry Strefy 1
-4.0 Ustawiona temperatury
-4.1 S/W Changeover
-4.2 Ustawienia Strefa 1
-4.3 Diagnostyka Strefa 1
-
-4.0 Ustawiona temperatury
-4.0.0 T dzienna
-4.0.1 T nocna
-4.0.2 T ust strefa 1
-4.0.3 Temp p zamrożeniowa strefy
-
-4.1 S/W Changeover
-4.1.0 S/W function activation
-4.1.1 S/W temperature threshhold
-4.1.2 S/W delay time
-
-4.2 Ustawienia Strefa 1
-4.2.0 Zakres temp Strefa
-4.2.1 Termoregulacja
-4.2.2 Krzywa grzewcza
-4.2.4 Przesunięcie równoległe
-4.2.4 Wpływ czujnika pomieszczenia
-4.2.5 Max T
-4.2.6 Min T
-4.2.9 Żądanie grzania
-
-4.5 Chłodzenie
-4.5.0 T ust chłodzenie Strefa 1
-4.5.1 Strefa 1 zakres temperatur
-4.5.2 Termoregulacja
-4.5.3 Krzywa grzewcza
-4.5.4 Przesunięcie równoległe
-4.5.6 Max T
-4.5.7 Min T
-
-4.8 Ustawienia zaawansowane
-4.8.0 Pilot enable
-4.8.1 Learning quality
-4.8.2 Periodicity
-
-17.1 Konfiguracja EM Input Output
-17.1.0 HV Input 1
-17.1.1 HV Input 2
-17.1.2 HV Input 3
-17.1.3 AUX Input 1
-17.1.4 AUX Output 1 (AFR)
-17.1.5 AUX Output 2
-17.1.6 Ustawienia AUX P2
-
-17.2 Ustawienia 1 Energy Manager
-17.2.0 Schemat hydrauliczny
-17.2.1 Funkcja AUTO
-17.2.2 ECO / COMFORT
-17.2.3 Przesunięcie równoległe T
-17.2.4 Czas funkcji BOOST
-17.2.5 Korekta temp zewnetrznej
-17.2.6 Stadium aktywacji grzałek
-17.2.7 Obecn. anody PRO TECH
-17.2.8 Wersja jednostki zewnętrznej 1
-17.2.9 Funkcji przeciw blokowaniu EM 1
-
-17.3 Centralne Ogrzewanie
-17.3.0 Czas opóźnienia zapłonu
-17.3.1 Czas między opóźnieniami zapłonu
-17.3.2 Wybieg pompy CO
-17.3.3 Kontrola prędkości pompy
-17.3.4 Delta T dla modulacji pompy
-17.3.7 Max PWM pompa
-17.3.8 Min PWM pompa
-17.3.9 Temp ust. Osuszania podłogi
+    4.0 Ustawiona temperatury
+        4.0.0 T dzienna
+        4.0.1 T nocna
+        4.0.2 T ust strefa 1
+        4.0.3 Temp p zamrożeniowa strefy
+    4.1 S/W Changeover
+        4.1.0 S/W function activation
+        4.1.1 S/W temperature threshhold
+        4.1.2 S/W delay time
+    4.2 Ustawienia Strefa 1
+        4.2.0 Zakres temp Strefa
+        4.2.1 Termoregulacja
+        4.2.2 Krzywa grzewcza
+        4.2.4 Przesunięcie równoległe
+        4.2.4 Wpływ czujnika pomieszczenia
+        4.2.5 Max T
+        4.2.6 Min T
+        4.2.9 Żądanie grzania
+    4.3 Diagnostyka Strefa 1
 
 
-17.4 Chłodzenie
-17.4.0 Aktywacja trybu chłodzenia
-17.4.1 Czas opóźnienia zapłonu
-17.4.2 Offset temperatury chłodzenia
+    4.5 Chłodzenie
+        4.5.0 T ust chłodzenie Strefa 1
+        4.5.1 Strefa 1 zakres temperatur
+        4.5.2 Termoregulacja
+        4.5.3 Krzywa grzewcza
+        4.5.4 Przesunięcie równoległe
+        4.5.6 Max T
+        4.5.7 Min T
 
-17.5 Ciepła Woda Użytkowa
-17.5.0 Temperatura CWU
-17.5.1 Temp. zredukowane CWU
-17.5.2 Funkcja Comfort
-17.5.3 Max Dobowy czas pracy HP
-17.5.4 Anty-legionella
-17.5.5 Czas startu funkcji [hh:mm]
-17.5.6 Częstotliwość anty legionella
+    4.8 Ustawienia zaawansowane
+        4.8.0 Pilot enable
+        4.8.1 Learning quality
+        4.8.2 Periodicity
 
+    17.0 Parametry użytkownika
+        17.0.0 Tryb ogrzewania
+        17.0.1 Aktywacja trybu cichego
+        17.0.2 Czas startu trybu cichego
+        17.0.3 Czas końca trybu cichego
+        17.0.4 CWU - funkcja BOOST
+        17.0.5 PV dT CWU
+        17.0.6 Aktywacja VMC
 
-17.6 Tryb manualny - 1
-17.6.0 Aktywacja trybu recznego
-17.6.1 Kontrola pompy HP
-17.6.2 Kontrola zawodu 3 drogowego
-17.6.3 Zawór 3 dr chlodzenia
-17.6.4 Pompa zewnętrzna
-17.6.5 AUX Output 1/2
-17.6.6 Test grzałki 1
-17.6.7 Test grzałki 2
-17.6.9 Test grzałki 3
-17.6.9 Anoda aktywna
+    17.1 Konfiguracja EM Input Output
+        17.1.0 HV Input 1
+        17.1.1 HV Input 2
+        17.1.2 HV Input 3
+        17.1.3 AUX Input 1
+        17.1.4 AUX Output 1 (AFR)
+        17.1.5 AUX Output 2
+        17.1.6 Ustawienia AUX P2
 
-17.7 Tryb manualny - 2
-17.7.0 Aktywacja trybu recznego
-17.7.1 Wymuszenie pompy HP - CO
-17.7.2 Wymuszenie HP chłodzenie
-17.7.3 Ocena ogrzewanie
-17.7.4 Ocena chłodzenie
-17.7.5 Częstotliwość kompresora
-17.7.6 Wentylator 1 rpm
-17.7.7 Wentylator 2 rpm
+    17.2 Ustawienia 1 Energy Manager
+        17.2.0 Schemat hydrauliczny
+        17.2.1 Funkcja AUTO
+        17.2.2 ECO / COMFORT
+        17.2.3 Przesunięcie równoległe T
+        17.2.4 Czas funkcji BOOST
+        17.2.5 Korekta temp zewnetrznej
+        17.2.6 Stadium aktywacji grzałek
+        17.2.7 Obecn. anody PRO TECH
+        17.2.8 Wersja jednostki zewnętrznej 1
+        17.2.9 Funkcji przeciw blokowaniu EM 1
 
+    17.3 Centralne Ogrzewanie
+        17.3.0 Czas opóźnienia zapłonu
+        17.3.1 Czas między opóźnieniami zapłonu
+        17.3.2 Wybieg pompy CO
+        17.3.3 Kontrola prędkości pompy
+        17.3.4 Delta T dla modulacji pompy
+        17.3.7 Max PWM pompa
+        17.3.8 Min PWM pompa
+        17.3.9 Temp ust. Osuszania podłogi
 
-17.9 Statystyki Energy Manager
-17.9.0 Czas pracy HP (h/10)
-17.9.1 Ilość cykli PC (n/10)
-17.9.2 Godziny pracy Resistance 1 (h/10)
-17.9.3 Godziny pracy Resistance 2 (h/10)
-17.9.4 Godziny pracy Resistance 3 (h/10)
-17.9.5 Cykle Resistance 1 (n/10)
-17.9.6 Czas pracy odszraniania (h/10)
-17.9.7 Czas pracy PC chłodzenie (h/10)
-17.9.8 Czas pracy ogrzewanie (h/10)
-17.9.9 Czas pracy CWU (h/10)
+    17.4 Chłodzenie
+        17.4.0 Aktywacja trybu chłodzenia
+        17.4.1 Czas opóźnienia zapłonu
+        17.4.2 Offset temperatury chłodzenia
 
-17.10 Diagnostyka HP - 1
-17.10.0 Temperatura powietrza na
-17.10.1 Temperatura zasialania pompy ciepła
-17.10.3 Temperatura parownika
-17.10.4 Temperatura na wejściu kompresora
-17.10.5 Temperatura na wyjściu kompresora
-17.10.6 Temperatura skraplacza
-17.10.7 Temperatura powietrza
+    17.5 Ciepła Woda Użytkowa
+        17.5.0 Temperatura CWU
+        17.5.1 Temp. zredukowane CWU
+        17.5.2 Funkcja Comfort
+        17.5.3 Max Dobowy czas pracy HP
+        17.5.4 Anty-legionella
+        17.5.5 Czas startu funkcji [hh:mm]
+        17.5.6 Częstotliwość anty legionella
 
-17.11 Diagnostyka HP - 2
-17.11.0 Tryb pompy ciepła
-17.11.1 Ostatni błąd inwertera
-17.11.3 Czujnik przepływu
-17.11.4 Stan czujnika przepływu
-17.11.5 Ochrona inwertera
-17.11.6 PEVAP - Ciśnienie parownik
-17.11.7 PCOND - Ciśnienie skraplacz
+    17.6 Tryb manualny - 1
+        17.6.0 Aktywacja trybu recznego
+        17.6.1 Kontrola pompy HP
+        17.6.2 Kontrola zawodu 3 drogowego
+        17.6.3 Zawór 3 dr chlodzenia
+        17.6.4 Pompa zewnętrzna
+        17.6.5 AUX Output 1/2
+        17.6.6 Test grzałki 1
+        17.6.7 Test grzałki 2
+        17.6.9 Test grzałki 3
+        17.6.9 Anoda aktywna
 
-17.12 Diagnostyka HP - 3
-17.12.0 Moc inwertera
-17.12.1 Aktualna częstotliwość kompresora
-17.12.2 Ustawiona częstotliwość
-17.12.5 Prędkość wentylatora 1
-17.12.6 Prędkość wentylatora 2
-17.12.7 Zawór rozprężny
+    17.7 Tryb manualny - 2
+        17.7.0 Aktywacja trybu recznego
+        17.7.1 Wymuszenie pompy HP - CO
+        17.7.2 Wymuszenie HP chłodzenie
+        17.7.3 Ocena ogrzewanie
+        17.7.4 Ocena chłodzenie
+        17.7.5 Częstotliwość kompresora
+        17.7.6 Wentylator 1 rpm
+        17.7.7 Wentylator 2 rpm
 
-17.13 Diagnostyka HP - 4
-17.13.0 Stan kompresora
-17.13.1 Wstępne podgrzewanie kompresora
-17.13.2 Stan wentylatora 1
-17.13.3 Stan wentylatora 2
-17.13.4 Stan zaworu 4-drog
-17.13.5 Stan grzałki
+    17.9 Statystyki Energy Manager
+        17.9.0 Czas pracy HP (h/10)
+        17.9.1 Ilość cykli PC (n/10)
+        17.9.2 Godziny pracy Resistance 1 (h/10)
+        17.9.3 Godziny pracy Resistance 2 (h/10)
+        17.9.4 Godziny pracy Resistance 3 (h/10)
+        17.9.5 Cykle Resistance 1 (n/10)
+        17.9.6 Czas pracy odszraniania (h/10)
+        17.9.7 Czas pracy PC chłodzenie (h/10)
+        17.9.8 Czas pracy ogrzewanie (h/10)
+        17.9.9 Czas pracy CWU (h/10)
 
+    17.10 Diagnostyka HP - 1
+        17.10.0 Temperatura powietrza na
+        17.10.1 Temperatura zasialania pompy ciepła
+        17.10.3 Temperatura parownika
+        17.10.4 Temperatura na wejściu kompresora
+        17.10.5 Temperatura na wyjściu kompresora
+        17.10.6 Temperatura skraplacza
+        17.10.7 Temperatura powietrza
 
+    17.11 Diagnostyka HP - 2
+        17.11.0 Tryb pompy ciepła
+        17.11.1 Ostatni błąd inwertera
+        17.11.3 Czujnik przepływu
+        17.11.4 Stan czujnika przepływu
+        17.11.5 Ochrona inwertera
+        17.11.6 PEVAP - Ciśnienie parownik
+        17.11.7 PCOND - Ciśnienie skraplacz
 
-17.14 EM Diagnostics - 1 Input
-17.14.0 Status Energy Manager
-17.14.1 T ust CO
-17.14.2 Mierzona T CO zasilanie
-17.14.3 Mierzona T CO powrót
-17.14.4 T zasobnika CWU
-17.14.5 Presostat ciśnienia
-17.14.6 HV Input 1
-17.14.7 HV Input 2
-17.14.8 HV Input 3
-17.14.9 AUX Input 1
+    17.12 Diagnostyka HP - 3
+        17.12.0 Moc inwertera
+        17.12.1 Aktualna częstotliwość kompresora
+        17.12.2 Ustawiona częstotliwość
+        17.12.5 Prędkość wentylatora 1
+        17.12.6 Prędkość wentylatora 2
+        17.12.7 Zawór rozprężny
 
+    17.13 Diagnostyka HP - 4
+        17.13.0 Stan kompresora
+        17.13.1 Wstępne podgrzewanie kompresora
+        17.13.2 Stan wentylatora 1
+        17.13.3 Stan wentylatora 2
+        17.13.4 Stan zaworu 4-drog
+        17.13.5 Stan grzałki
 
+    17.14 EM Diagnostics - 1 Input
+        17.14.0 Status Energy Manager
+        17.14.1 T ust CO
+        17.14.2 Mierzona T CO zasilanie
+        17.14.3 Mierzona T CO powrót
+        17.14.4 T zasobnika CWU
+        17.14.5 Presostat ciśnienia
+        17.14.6 HV Input 1
+        17.14.7 HV Input 2
+        17.14.8 HV Input 3
+        17.14.9 AUX Input 1
 
-17.15 Diagnostyka EM - 2 Output
-17.15.0 Status pompy CO
-17.15.1 Pompa 2
-17.15.2 Zawór 3-drogowy
-17.15.3 Zawór 3-drogowy
-17.15.4 Grzałka 1
-17.15.5 Grzałka 2
-17.15.6 Grzałka 3
-17.15.17 Anoda aktywna
-17.15.8 AUX Output 1(AFR)
-17.15.9 AUX Output 2
+    17.15 Diagnostyka EM - 2 Output
+        17.15.0 Status pompy CO
+        17.15.1 Pompa 2
+        17.15.2 Zawór 3-drogowy
+        17.15.3 Zawór 3-drogowy
+        17.15.4 Grzałka 1
+        17.15.5 Grzałka 2
+        17.15.6 Grzałka 3
+        17.15.17 Anoda aktywna
+        17.15.8 AUX Output 1(AFR)
+        17.15.9 AUX Output 2
 
+    17.17 Reset Menu
+        17.17.0 Reset do ustawień fabrycznych
+        17.17.1 Reset
+        17.17.2 Reset zegara kompresora
 
-19.0 Ustawienia modemu
-19.0.0 Wi-Fi ON/OFF
-19.0.1 Ustawienia sieci
-19.0.3 Czas
-19.0.4 Dane pogodowe zdalne
-19.0.5 Korekta temperatury zewnętrznej
+    19.0 Ustawienia modemu
+        19.0.0 Wi-Fi ON/OFF
+        19.0.1 Ustawienia sieci
+        19.0.3 Czas
+        19.0.4 Dane pogodowe zdalne
+        19.0.5 Korekta temperatury zewnętrznej
 
+    19.1 Połączenie zdalne info
+        19.1.0 Połączenie zdalne stan
+        19.1.1 Poziom sygnału
+        19.1.2 Stan aktywacji rutera
+        19.1.3 Numer seryjny
+        19.1.4 Stan aktualizacji
 
-19.1 Połączenie zdalne info
-19.1.0 Połączenie zdalne stan
-19.1.1 Poziom sygnału
-19.1.2 Stan aktywacji rutera
-19.1.3 Numer seryjny
-19.1.4 Stan aktualizacji
+    20.0 Konfiguracja
+        20.0.0 Aktywacja bufora
+        20.0.1 Tryb grzania bufora
+        20.0.2 Histereza
+        20.0.3 Temperatura-grzanie
+        20.0.4 Temperatura-chłodzenie
 
-20.0 Konfiguracja
-20.0.0 Aktywacja bufora
-20.0.1 Tryb grzania bufora
-20.0.2 Histereza
-20.0.3 Temperatura-grzanie
-20.0.4 Temperatura-chłodzenie
-
-20.2 Statystyki
-20.2.0 Godziny pracy ogrzewanie (/10)
-20.2.1 Godziny pracy chłodzenie (/10)
+    20.2 Statystyki
+        20.2.0 Godziny pracy ogrzewanie (/10)
+        20.2.1 Godziny pracy chłodzenie (/10)
