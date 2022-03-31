@@ -1,9 +1,75 @@
 Menu Serwisowe
 
+4 Parametry Strefy 1
+4.0 Ustawiona temperatury
+4.1 S/W Changeover
+4.2 Ustawienia Strefa 1
+4.3 Diagnostyka Strefa 1
+
+4.0 Ustawiona temperatury
+4.0.0 T dzienna
+4.0.1 T nocna
+4.0.2 T ust strefa 1
+4.0.3 Temp p zamrożeniowa strefy
+
+4.1 S/W Changeover
+4.1.0 S/W function activation
+4.1.1 S/W temperature threshhold
+4.1.2 S/W delay time
+
+4.2 Ustawienia Strefa 1
+4.2.0 Zakres temp Strefa
+4.2.1 Termoregulacja
+4.2.2 Krzywa grzewcza
+4.2.4 Przesunięcie równoległe
+4.2.4 Wpływ czujnika pomieszczenia
+4.2.5 Max T
+4.2.6 Min T
+4.2.9 Żądanie grzania
+
+4.5 Chłodzenie
+4.5.0 T ust chłodzenie Strefa 1
+4.5.1 Strefa 1 zakres temperatur
+4.5.2 Termoregulacja
+4.5.3 Krzywa grzewcza
+4.5.4 Przesunięcie równoległe
+4.5.6 Max T
+4.5.7 Min T
+
 4.8 Ustawienia zaawansowane
 4.8.0 Pilot enable
 4.8.1 Learning quality
 4.8.2 Periodicity
+
+
+
+
+17.14 EM Diagnostics - 1 Input
+17.14.0 Status Energy Manager
+17.14.1 T ust CO
+17.14.2 Mierzona T CO zasilanie
+17.14.3 Mierzona T CO powrót
+17.14.4 T zasobnika CWU
+17.14.5 Presostat ciśnienia
+17.14.6 HV Input 1
+17.14.7 HV Input 2
+17.14.8 HV Input 3
+17.14.9 AUX Input 1
+
+
+
+17.15 Diagnostyka EM - 2 Output
+17.15.0 Status pompy CO
+17.15.1 Pompa 2
+17.15.2 Zawór 3-drogowy
+17.15.3 Zawór 3-drogowy
+17.15.4 Grzałka 1
+17.15.5 Grzałka 2
+17.15.6 Grzałka 3
+17.15.17 Anoda aktywna
+17.15.8 AUX Output 1(AFR)
+17.15.9 AUX Output 2
+
 
 19.0 Ustawienia modemu
 19.0.0 Wi-Fi ON/OFF
