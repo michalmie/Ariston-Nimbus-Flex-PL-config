@@ -1,5 +1,7 @@
 Ariston Nimbus Flex - Menu Serwisowe
 
+Wejścię do Menu serwisowego: Przytrzymaj oba przyciski przez ok 3 sekundy, kod: 234
+
 4 Parametry Strefy 1
     4.0 Ustawiona temperatury
         4.0.0 T dzienna
