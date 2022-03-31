@@ -63,8 +63,15 @@ Ariston Nimbus Flex - Menu Serwisowe
 
     17.2 Ustawienia 1 Energy Manager
         17.2.0 Schemat hydrauliczny
+            - Plus
+            - Compact
+            - Flex
+            - Podgrzewacz z PC
+            - Light 
         17.2.1 Funkcja AUTO
         17.2.2 ECO / COMFORT
+            Określa opóźnienie zapłonu grzałek uzupełniających, od tego bardziej ekologicznego/ekonomicznego (dłuższy czas opóźnienia) do bardziej
+            wygodnego (krótszy czas opóźnienia).
         17.2.3 Przesunięcie równoległe T
         17.2.4 Czas funkcji BOOST
         17.2.5 Korekta temp zewnetrznej
@@ -92,6 +99,18 @@ Ariston Nimbus Flex - Menu Serwisowe
         17.5.0 Temperatura CWU
         17.5.1 Temp. zredukowane CWU
         17.5.2 Funkcja Comfort
+            Określa tryb produkcji ciepłej wody użytkowej z następującymi wartościami:
+            - Wyłączona
+            - Czasowa (włącza funkcję Comfort na regulowane okresy czasu, zgodnie z zaprogramowaniem wody użytkowej)
+            - Zawsze aktywna
+            - HC/HP
+            UWAGA: Akumulacja wody użytkowej jest ogrzewana tylko przez pompę obiegową, gdy wejście EDF jest włączone (patrz par. 17.1.0.) i 
+            przekształcona w napięcie 230V (czas zredukowanej taryfy energetycznej).
+            - HC/HP 40°C
+            UWAGA: Funkcja analogiczna do HC/HP, w czasie pełnej taryfy energetycznej (wejście EDF = 0V) zapewnione jest ogrzewanie akumulacji
+            ciepłej wody użytkowej do 40 °C.
+            - GREEN
+            UWAGA: używa tylko pompy obiegowej w okresach określonych w programowaniu godzinowym ciepłej wody użytkowej pomocniczej.
         17.5.3 Max Dobowy czas pracy HP
         17.5.4 Anty-legionella
         17.5.5 Czas startu funkcji [hh:mm]
