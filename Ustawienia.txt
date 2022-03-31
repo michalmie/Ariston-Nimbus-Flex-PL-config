@@ -1,4 +1,4 @@
-Menu Serwisowe
+Ariston Nimbus Flex - Menu Serwisowe
 
 4 Parametry Strefy 1
 4.0 Ustawiona temperatury
@@ -41,6 +41,51 @@ Menu Serwisowe
 4.8.1 Learning quality
 4.8.2 Periodicity
 
+17.9 Statystyki Energy Manager
+17.9.0 Czas pracy HP (h/10)
+17.9.1 Ilość cykli PC (n/10)
+17.9.2 Godziny pracy Resistance 1 (h/10)
+17.9.3 Godziny pracy Resistance 2 (h/10)
+17.9.4 Godziny pracy Resistance 3 (h/10)
+17.9.5 Cykle Resistance 1 (n/10)
+17.9.6 Czas pracy odszraniania (h/10)
+17.9.7 Czas pracy PC chłodzenie (h/10)
+17.9.8 Czas pracy ogrzewanie (h/10)
+17.9.9 Czas pracy CWU (h/10)
+
+17.10 Diagnostyka HP - 1
+17.10.0 Temperatura powietrza na
+17.10.1 Temperatura zasialania pompy ciepła
+17.10.3 Temperatura parownika
+17.10.4 Temperatura na wejściu kompresora
+17.10.5 Temperatura na wyjściu kompresora
+17.10.6 Temperatura skraplacza
+17.10.7 Temperatura powietrza
+
+17.11 Diagnostyka HP - 2
+17.11.0 Tryb pompy ciepła
+17.11.1 Ostatni błąd inwertera
+17.11.3 Czujnik przepływu
+17.11.4 Stan czujnika przepływu
+17.11.5 Ochrona inwertera
+17.11.6 PEVAP - Ciśnienie parownik
+17.11.7 PCOND - Ciśnienie skraplacz
+
+17.12 Diagnostyka HP - 3
+17.12.0 Moc inwertera
+17.12.1 Aktualna częstotliwość kompresora
+17.12.2 Ustawiona częstotliwość
+17.12.5 Prędkość wentylatora 1
+17.12.6 Prędkość wentylatora 2
+17.12.7 Zawór rozprężny
+
+17.13 Diagnostyka HP - 4
+17.13.0 Stan kompresora
+17.13.1 Wstępne podgrzewanie kompresora
+17.13.2 Stan wentylatora 1
+17.13.3 Stan wentylatora 2
+17.13.4 Stan zaworu 4-drog
+17.13.5 Stan grzałki
 
 
 
