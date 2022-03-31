@@ -12,7 +12,14 @@ Ariston Nimbus Flex - Menu Serwisowe
         4.1.2 S/W delay time
     4.2 Ustawienia Strefa 1
         4.2.0 Zakres temp Strefa
+            - 0 Niskotemperaturowy
+            - 1 Wysokotemperaturowy
         4.2.1 Termoregulacja
+            - 0 Stała temp zasilania
+            - 1 Urządzenia ON/OFF
+            - 2 Tylko Czujnik Otoczenia
+            - 3 Tylko Czujnik zewnętrzny
+            - 4 Czujnik Otoczenia + czujnik zewnętrzny
         4.2.2 Krzywa grzewcza
         4.2.4 Przesunięcie równoległe
         4.2.4 Wpływ czujnika pomieszczenia
